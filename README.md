@@ -1,4 +1,5 @@
 # Hi, I am Bhupender Bindal 
-I enjoy the visualisation of information, hence, computer vision, data transformation, geo-data, and still exploring.
+I enjoy visualising different types of information, hence computer vision, data transformation, geo-data, and still exploring.
 
-⭐ Sqlite is pretty useful.
+#### Currently:
+- Solving [Advent of Code - 2024](https://github.com/bhupenderbindal/aoc_2024)
